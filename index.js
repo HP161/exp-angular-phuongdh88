@@ -5,6 +5,6 @@ const options = {
   scrollContainer: '.scroll-container', // Listen scroll behavior on `.scroll-container` instead of `window`
   angularApp
 }
-
+//edit
 // init:
 
